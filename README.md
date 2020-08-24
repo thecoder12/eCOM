@@ -1,5 +1,6 @@
 # eCOM
 
+Seller:
 Python Flipkart API:
 https://github.com/fulfilio/python-flipkart
 
@@ -11,6 +12,9 @@ https://developer.paytm.com/docs/server-sdk/python/
 
 Myntra API:
 ?
+
+
+Product list:
 
 
 
