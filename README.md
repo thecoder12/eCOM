@@ -9,7 +9,8 @@ https://pypi.org/project/mws/
 Paytm API:
 https://developer.paytm.com/docs/server-sdk/python/
 
-<> API:
+Myntra API:
+?
 
 
 
