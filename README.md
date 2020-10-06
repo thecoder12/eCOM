@@ -14,6 +14,11 @@ Myntra API:
 ?
 
 
+Keyword: Multi-Channel Inventory Management
+
+List of eCOMs:
+https://deliverr.com/blog/multi-channel-listing-software/
+
 Product list:
 
 
